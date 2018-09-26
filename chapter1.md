@@ -3,7 +3,7 @@ title: 'Template Chapter 1'
 description: 'This is a template chapter.'
 ---
 
-## Insert exercise title here
+## Exercise 1
 
 ```yaml
 type: NormalExercise
@@ -41,7 +41,7 @@ xp: 100
 
 ---
 
-## Insert exercise title here
+## Exercise 2
 
 ```yaml
 type: NormalExercise
@@ -87,7 +87,7 @@ xp: 100
 
 ---
 
-## Insert exercise title here
+## Exercise 3
 
 ```yaml
 type: NormalExercise
