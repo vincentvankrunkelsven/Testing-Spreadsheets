@@ -9,6 +9,8 @@ description: 'This chapter discuss how a pivot table works, and how it deals wit
 type: VideoExercise
 key: h2oz7i0y6n
 xp: 50
+video_link: //player.vimeo.com/video/154783078
+video_hls: //videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
 ```
 
 `@projector_key`
@@ -121,6 +123,8 @@ type: NormalExercise
 key: uabqctof6k
 lang: spreadsheets
 xp: 100
+video_link: //player.vimeo.com/video/154783078
+video_hls: //videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
 ```
 
 Now that you know how to create the body and layout of a pivot table, let's start organizing the data.
@@ -220,6 +224,8 @@ Let's try another example.  This time you'll need to find the cities that receiv
 type: VideoExercise
 key: ucacgf20ir
 xp: 50
+video_link: //player.vimeo.com/video/154783078
+video_hls: //videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
 ```
 
 `@projector_key`
