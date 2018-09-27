@@ -11,6 +11,7 @@ key: h2oz7i0y6n
 lang: sql
 xp: 50
 skills: 1
+number: 1
 ```
 
 Test
@@ -35,6 +36,7 @@ key: 7c5gomfyzp
 lang: sql
 xp: 50
 skills: 1
+number: 5
 ```
 
 Test
@@ -59,6 +61,7 @@ key: ucacgf20ir
 lang: sql
 xp: 50
 skills: 1
+number: 1
 ```
 
 Test
