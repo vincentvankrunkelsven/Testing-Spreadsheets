@@ -6,42 +6,69 @@ description: 'This chapter discuss how a pivot table works, and how it deals wit
 ## How a Pivot Table works
 
 ```yaml
-type: VideoExercise
+type: PureMultipleChoiceExercise
 key: h2oz7i0y6n
 lang: sql
 xp: 50
 skills: 1
 ```
 
-`@projector_key`
-1591616a7a00f70ff25263aede6825c5
+Test
+
+`@possible_answers`
+- A
+- [B]
+- C
+
+`@feedbacks`
+- A
+- B
+- C
 
 ---
 
 ## Using Filters in a Pivot Table
 
 ```yaml
-type: VideoExercise
+type: PureMultipleChoiceExercise
 key: 7c5gomfyzp
 lang: sql
 xp: 50
 skills: 1
 ```
 
-`@projector_key`
-a35f4789428924a91484ed9280a897c1
+Test
+
+`@possible_answers`
+- A
+- [B]
+- C
+
+`@feedbacks`
+- A
+- B
+- C
 
 ---
 
 ## Putting all the pieces together
 
 ```yaml
-type: VideoExercise
+type: PureMultipleChoiceExercise
 key: ucacgf20ir
 lang: sql
 xp: 50
 skills: 1
 ```
 
-`@projector_key`
-ed5663439e93a1d6206323a4e309adaf
+Test
+
+`@possible_answers`
+- A
+- [B]
+- C
+
+`@feedbacks`
+- A
+- B
+- C
