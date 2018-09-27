@@ -61,7 +61,7 @@ key: ucacgf20ir
 lang: sql
 xp: 50
 skills: 1
-number: 1
+number: 10
 ```
 
 Test
