@@ -1,1 +1,50 @@
-{}
+{
+  "slides/chapter_1_how_a_pivot_table_works.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.015039381499414133,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    }
+  ],
+  "slides/chapter_1_using_filters_in_a_pivot_table.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.011969910187691595,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    }
+  ],
+  "slides/chapter_1_putting_all_the_pieces_together.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.010962870734485748,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    }
+  ]
+}
