@@ -11,7 +11,6 @@ key: h2oz7i0y6n
 lang: sql
 xp: 50
 skills: 1
-number: 1
 ```
 
 Test
@@ -25,6 +24,12 @@ Test
 - A
 - B
 - C
+
+---
+
+---
+
+---
 
 ---
 
@@ -36,7 +41,6 @@ key: 7c5gomfyzp
 lang: sql
 xp: 50
 skills: 1
-number: 5
 ```
 
 Test
@@ -53,6 +57,14 @@ Test
 
 ---
 
+---
+
+---
+
+---
+
+---
+
 ## Putting all the pieces together
 
 ```yaml
@@ -61,7 +73,6 @@ key: ucacgf20ir
 lang: sql
 xp: 50
 skills: 1
-number: 10
 ```
 
 Test
