@@ -32,7 +32,7 @@ xp: 50
 `@possible_answers`
 - [It takes a dataset of any size, and allows you to build custom summaries of the data in an easy-to-manage table]
 - It converts your original data into a pre-defined format which you cannot adjust
-- It subtotals your data only
+- It subtotals your data onlya
 
 `@feedback`
 - Correct!  The pivot table allows you to summarize a large amount of data in just a few seconds!
