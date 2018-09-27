@@ -7,7 +7,7 @@ description: 'This is a template chapter.'
 
 ```yaml
 type: NormalExercise
-key: c6ebe2b16b
+key: h2oz7i0y6n
 xp: 100
 ```
 
