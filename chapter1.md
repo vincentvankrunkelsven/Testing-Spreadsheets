@@ -1,6 +1,8 @@
 ---
-title: 'Behind the Scenes of the Pivot Table'
-description: 'This chapter discuss how a pivot table works, and how it deals with the underlying data.'
+title: Behind the Scenes of the Pivot Table
+description: |
+ This is chapter one
+
 ---
 
 ## How a pivot table works
@@ -21,7 +23,7 @@ video_hls: //videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.
 ## What does a pivot table do?
 
 ```yaml
-type: PureMultipleChoiceExercise
+type: PureMultipleChoiceExercise 
 key: 4xacqbd8qz
 lang: spreadsheets
 xp: 50
@@ -44,7 +46,7 @@ xp: 50
 ## Analyze the pivot table
 
 ```yaml
-type: MultipleChoiceExercise
+type: MultipleChoiceExercise 
 key: 0wonloqoq3
 lang: spreadsheets
 xp: 50
@@ -67,7 +69,7 @@ xp: 50
 ## Analyze the pivot table pt 2
 
 ```yaml
-type: MultipleChoiceExercise
+type: MultipleChoiceExercise 
 key: zgpyyoem8g
 lang: spreadsheets
 xp: 50
@@ -93,6 +95,8 @@ xp: 50
 type: VideoExercise
 key: 7c5gomfyzp
 xp: 50
+video_link: //player.vimeo.com/video/154783078
+video_hls: //videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
 ```
 
 `@projector_key`
@@ -107,8 +111,6 @@ type: NormalExercise
 key: uabqctof6k
 lang: spreadsheets
 xp: 100
-video_link: //player.vimeo.com/video/154783078
-video_hls: //videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
 ```
 
 Now that you know how to create the body and layout of a pivot table, let's start organizing the data.
